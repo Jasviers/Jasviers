@@ -13,7 +13,9 @@
 
 ## My social media
 <p align="center">
-  <a href="mailto:jasviers@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/Jasviers"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/javier-antonio-rom%C3%A1n-l%C3%B3pez-232bb3109/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:jasviers@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a href="https://github.com/Jasviers"><img src="https://img.icons8.com/color/48/000000/github-2.png"/></a>
+  <a href="https://www.linkedin.com/in/javier-antonio-rom%C3%A1n-l%C3%B3pez-232bb3109/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://hub.docker.com/u/jasviers"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+  
 </p>
